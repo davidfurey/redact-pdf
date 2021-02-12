@@ -1,3 +1,5 @@
+# Moved to [guardian/redact-pdf](https://github.com/guardian/redact-pdf)
+
 Redact PDF
 ==========
 
